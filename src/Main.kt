@@ -18,4 +18,9 @@ fun main() {
 	var decrement = b--
 	println(increment)
 	println(decrement)
+
+
+	println(++a)
+	println(a)
+
 }
